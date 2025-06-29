@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/FriendsCoreAPI/uploads/497b5dc3-3df1-4123-9396-780378582667_WhatsApp Image 2025-04-22 at 6.50.49 PM.fbbvlbrjmd.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\497b5dc3-3df1-4123-9396-780378582667_WhatsApp Image 2025-04-22 at 6.50.49 PM.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fbbvlbrjmd"},{"Name":"integrity","Value":"sha256-C/z0vkIBlZlEi80SaKBWcEMxddc7mZo\u002BVbkT\u002Bp7QVz4="},{"Name":"label","Value":"_content/FriendsCoreAPI/uploads/497b5dc3-3df1-4123-9396-780378582667_WhatsApp Image 2025-04-22 at 6.50.49 PM.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"582530"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022C/z0vkIBlZlEi80SaKBWcEMxddc7mZo\u002BVbkT\u002Bp7QVz4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Jun 2025 10:43:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FriendsCoreAPI/uploads/497b5dc3-3df1-4123-9396-780378582667_WhatsApp Image 2025-04-22 at 6.50.49 PM.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\497b5dc3-3df1-4123-9396-780378582667_WhatsApp Image 2025-04-22 at 6.50.49 PM.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-C/z0vkIBlZlEi80SaKBWcEMxddc7mZo\u002BVbkT\u002Bp7QVz4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"582530"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022C/z0vkIBlZlEi80SaKBWcEMxddc7mZo\u002BVbkT\u002Bp7QVz4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Jun 2025 10:43:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

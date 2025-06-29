@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nitin\\source\\repos\\FriendsCoreAPI\\FriendsCoreAPI\\wwwroot\\uploads\\497b5dc3-3df1-4123-9396-780378582667_WhatsApp Image 2025-04-22 at 6.50.49 PM.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\497b5dc3-3df1-4123-9396-780378582667_WhatsApp Image 2025-04-22 at 6.50.49 PM.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FriendsCoreAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FriendsCoreAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FriendsCoreAPI.props",
+      "PackagePath": "build\\FriendsCoreAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FriendsCoreAPI.props",
+      "PackagePath": "buildMultiTargeting\\FriendsCoreAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FriendsCoreAPI.props",
+      "PackagePath": "buildTransitive\\FriendsCoreAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

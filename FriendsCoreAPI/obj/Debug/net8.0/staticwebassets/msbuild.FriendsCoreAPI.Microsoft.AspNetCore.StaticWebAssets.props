@@ -1,0 +1,22 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\497b5dc3-3df1-4123-9396-780378582667_WhatsApp Image 2025-04-22 at 6.50.49 PM.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>FriendsCoreAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FriendsCoreAPI</BasePath>
+      <RelativePath>uploads/497b5dc3-3df1-4123-9396-780378582667_WhatsApp Image 2025-04-22 at 6.50.49 PM.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>fbbvlbrjmd</Fingerprint>
+      <Integrity>C/z0vkIBlZlEi80SaKBWcEMxddc7mZo+VbkT+p7QVz4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\497b5dc3-3df1-4123-9396-780378582667_WhatsApp Image 2025-04-22 at 6.50.49 PM.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>
